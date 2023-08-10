@@ -16,6 +16,4 @@ npm i -g pnpm
 
 ### Notes
 
-Will update this readme later, enjoy! sayonara, bye bye, auf wiedersehen!
-
-(Hmm, apa bakornya ya ntahlah)
+Will update this readme later, enjoy! sayonara, bye bye, auf wiedersehen annyeonghi gaseyeo!
