@@ -18,13 +18,13 @@ body {
 }
 
 .navbar {
-  background: blue;
+  background: pink;
   position: fixed;
   top: 0;
 }
 
 .container {
-  background-color: red;
+  background-color: beige;
   border: 1px solid black;
   height: 500px;
   width: 100%;
@@ -53,7 +53,7 @@ body {
 }
 
 button {
-  background-color: blue;
+  background-color: pink;
   color: white;
   padding: 10px;
   border-radius: 5px;
