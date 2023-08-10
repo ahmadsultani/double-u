@@ -1,5 +1,5 @@
 ## Learning Resources
-Made by [ahmadsultani](https://github.com/ahmadsultani) for [wina](https://github.com/winati17)
+Made by [ahmadsultani](https://github.com/ahmadsultani) and [wina](https://github.com/winati17)
 
 Hi hi hello hello
 
