@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh !important;
+  height: 100dvh !important;
   position: relative;
 }
 
@@ -50,7 +50,7 @@ body {
 .card__description {
   font-size: 16px;
   text-align: center;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 .card__buttons {

@@ -2,6 +2,7 @@ const btn1 = document.getElementById("btn-1");
 const btn2 = document.getElementById("btn-2");
 
 btn1.addEventListener("click", () => {
+  btn2.style.position = "static";
   Swal.fire({
     title: "Yeyyy",
     text: "Maaciyeyo",
